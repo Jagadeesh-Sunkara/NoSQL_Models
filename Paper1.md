@@ -1,5 +1,5 @@
 
-# Comparison of NoSQL Database Management Systems and Models:
+# Comparison of NoSQL Database Management Systems and Models
 
 Traditional relational databases have been the most popular option for many years which can handle the majority of data but alternative databases have become more common in recent years to overcome the limitationslike being better suited only for structural data, horizontal scaling.The article highlights various non-relational data models also known as NoSQL databases, each with its use cases, advantages, and disadvantages. 
 
